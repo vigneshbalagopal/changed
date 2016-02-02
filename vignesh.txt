@@ -6,4 +6,7 @@ hellloooooooooooooooooooooooooooooooooooo
 
 Closing the JIRA Ticket
 
-Making the issue to inprogress
+Making the issue to inprogres
+
+
+this is partially doen!!!
